@@ -1,0 +1,22 @@
+.course-header {
+  font-family: "Helvetica", sans-serif;
+  font-weight: 100;
+  color: white;
+  padding: 2em .5em 0;
+}
+
+.course-link {
+  display: inline-block;
+  font-family: "Helvetica", sans-serif;
+  font-weight: 100;
+  color: white;
+  padding: .5em;
+}
+
+.course-link:hover {
+  border-bottom: grey 2px;
+}
+
+.header-and-links {
+  background-color: #6A6F7C;
+}
